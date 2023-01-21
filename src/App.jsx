@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <h1>yahir dev</h1>
       <h2>yahir es macaco</h2>
-      <p>te quiero mucho como la cola</p>
+      <p>te quiero mucho como la cola de chucho y si viene un cerrucho..</p>
     </div>
   )
 }
