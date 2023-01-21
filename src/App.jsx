@@ -11,6 +11,7 @@ function App() {
       <h2>yahir es macaco</h2>
       <p>te quiero mucho como la cola de chucho y si viene un cerrucho..</p>
       <p>le digo que se aleje porque te quiero mucho</p>
+      <p>muuuak</p>
     </div>
   )
 }
